@@ -1,0 +1,30 @@
+body{
+text-align:center;
+}
+
+h1{
+font-size:40px;
+font-family:cursive;
+font-weight:400;
+color: aqua;
+}
+
+#app{
+background-color:#a0a1ee;
+}
+
+#games{
+background-color: #e2f575;
+}
+
+.line{
+height:6px;
+background-color:aqua;
+width:70px;
+margin:8px auto;
+}
+
+img{
+margin:10px;
+}
+
